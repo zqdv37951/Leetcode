@@ -24,3 +24,4 @@ class Solution(object):
 
 ob = Solution() 
 print(ob.twoSum([4, 6, 4, 11, 15],8))
+print("two sum")
