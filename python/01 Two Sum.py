@@ -22,5 +22,5 @@ class Solution(object):
                     return sorted([raw_nums.index(nums[i]),raw_nums.index(target-nums[i])])
                     break
 
-ob = Solution()
+ob = Solution() 
 print(ob.twoSum([4, 6, 4, 11, 15],8))
